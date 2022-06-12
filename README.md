@@ -1,7 +1,7 @@
-# PHYS222-Programming-Project-Autumn-2021
+# PHYS222-Modern-Physics-Project-Autumn-2021
 Names: Derek Lee, Davi Lazoritz
 
-Project: Data visualizer
+Project: Data visualizer of Atomic Spectra Lines
 Goal: Using a given dataset of atomic spectra lines, visualize the wavelengths that are within the visible spectrum.
 
 Data file source: NIST Atomic Spectra Database
